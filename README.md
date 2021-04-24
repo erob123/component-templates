@@ -20,3 +20,6 @@ This project is intended to provide some pre-canned boilerplate for easy templat
 
 ## Common design patterns
 1. The Material UI-style card: https://codepen.io/inf3cti0n95/pen/BQJMrL
+
+## Coloring tools
+1. Opacify vs Transparentize https://codepen.io/timharbour/pen/cBLqi
