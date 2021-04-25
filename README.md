@@ -16,7 +16,7 @@ This project is intended to provide some pre-canned boilerplate for easy templat
 7. Background: http://www.cssbasics.com/css-backgrounds/
 8. Borders: http://www.cssbasics.com/css-borders/
 9. Anchors, Links, and Pseudo Classes: http://www.cssbasics.com/css-anchors-links-and-pseudo-classes/
-10. 
+10. Transitions: https://www.w3schools.com/css/css3_transitions.asp
 
 ## Common design patterns
 1. The Material UI-style card: https://codepen.io/inf3cti0n95/pen/BQJMrL
